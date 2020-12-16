@@ -51,6 +51,8 @@
   --text-formatting-em: #6e655e;
   --text-em:#9ac3db;
   --text-tag: #da7431;
+  --cursor-color: #3bb5dd;
+  --text-selection: #1483a8;
   --font-family-editor: SF Mono, Menlo, Avenir Next, Times New Roman;;
 }
 
@@ -65,6 +67,10 @@ body {
 
 .markdown-source-view.is-readable-line-width .CodeMirror {
   max-width: 800px !important;
+}
+
+.CodeMirror-cursor { 
+  border-left: 3px solid var(--cursor-color) !important;
 }
 
 .cm-header-1,
