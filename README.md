@@ -1,6 +1,7 @@
 # 2042 dark theme for [Obsidian.md](https://obsidian.md/)
 
-> A dark theme for [Obsidian](https://obsidian.md/)
+A minimal dark theme for [Obsidian](https://obsidian.md/).
+I wanted just to change main colors, font and editor width, so to keep the theme as much as possibile compatibile with Obsidian evolution.
 
 ![Screenshot](./screenshot-theme-2042.png)
 
