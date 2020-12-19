@@ -41,7 +41,7 @@
   --background-primary-alt: #202020;
   --background-secondary: #1E1E1E;
   --background-secondary-alt:#141414;
-  --text-normal: #CBCBCB;
+  --text-normal: #b6b6b6;
   --text-highlight-bg: rgba(255, 174, 0, 0.4);
 
   --text-title-h: #189CC7;
@@ -57,12 +57,13 @@
 }
 
 :root {
-  --default-font: Consolas, SF Mono, Menlo, Avenir Next, Times New Roman;
+  --default-font: Menlo, Avenir Next, Times New Roman;
   /* --font-monospace: 'Source Code Pro', monospace; */
 }
 
 body {
   font-size: 19px !important;
+  /* font-weight: 300; */
 }
 
 .markdown-source-view.is-readable-line-width .CodeMirror {

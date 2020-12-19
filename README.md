@@ -1,4 +1,4 @@
-# 2042 dark theme for [Obsidian.md](https://obsidian.md/)
+# 2042 dark theme for Obsidian.md
 
 A minimal dark theme for [Obsidian](https://obsidian.md/).
 I wanted just to change main colors, font and editor width, so to keep the theme as much as possibile compatibile with Obsidian evolution.
@@ -12,4 +12,9 @@ I wanted just to change main colors, font and editor width, so to keep the theme
 3. Put the `obsidian.css` in your vault root folder.
 4. Restart Obsidian.
 
-_The theme font are SF Mono or Menlo, so make sure you have them activated_
+Note: _The theme font Menlo, but you can change easily_
+
+
+### Test
+I use this [markdown test file](test.md) to check
+
